@@ -1,0 +1,8 @@
+sayi x = 15;
+
+ise (x > 10) {
+    yazdir(x);
+}
+degilse {
+    yazdir(0);
+}

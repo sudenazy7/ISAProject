@@ -1,0 +1,6 @@
+sayi x = 5;
+sayi y = 10;
+
+x = x + y;
+
+yazdir(x);

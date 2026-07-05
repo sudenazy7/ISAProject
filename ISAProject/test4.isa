@@ -1,0 +1,6 @@
+sayi i = 0;
+
+iken (i < 5) {
+    yazdir(i);
+    i = i + 1;
+}

@@ -1,0 +1,7 @@
+sayi a = 10;
+sayi b = 5;
+sayi c;
+
+c = a * b + (a - b);
+
+yazdir(c);
